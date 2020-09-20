@@ -4,4 +4,6 @@ int main()
 {
     cout<<"HelloWorld";
     int a;
+    int b;
+    
 }
